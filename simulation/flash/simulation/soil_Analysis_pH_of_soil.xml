@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+	<TEXTVALUE>Click on each apparatus/reagents to know its name or click on “Continue” to start the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="02buttons">
+	<TEXT ID="02buttons_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="04apparatus">
+	<TEXT ID="04apparatus_one">
+	<TEXTVALUE>Switch on the pH meter and calibrate the pH meter using pH 7 buffer.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="05ph7">
+	<TEXT ID="05ph7_one">
+	<TEXTVALUE>Take a labeled beaker containing pH 7 buffer solution.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="05ph7_two">
+	<TEXTVALUE>Place the beaker below the pH electrode and dip the electrode into the solution.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="05ph7_three">
+	<TEXTVALUE>pH meter shows the reading as 7.0, now it is properly calibrated and is ready to be used.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="05ph7_four">
+	<TEXTVALUE>Remove the pH 7 Buffer from pH meter.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="06washing">
+	<TEXT ID="06washing_one">
+	<TEXTVALUE>Wash the electrode using distilled water and adjust the pH meter with pH 4.0 buffer solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="07ph4pick">
+	<TEXT ID="07ph4pick_one">
+	<TEXTVALUE>Take a labeled beaker containing pH 4 buffer solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="08ph4reading">
+	<TEXT ID="08ph4reading_one">
+	<TEXTVALUE>Place the beaker below the pH electrode and dip the electrode into the solution.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="08ph4reading_two">
+	<TEXTVALUE>pH meter shows the reading as 4.0, now it is properly adjusted to the pH 4.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="08ph4reading_three">
+	<TEXTVALUE>Remove the pH 4 buffer from the pH meter.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="09ph4place">
+	<TEXT ID="09ph4place_one">
+	<TEXTVALUE>Remove the pH 4 buffer from the pH meter.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="10washing2">
+	<TEXT ID="10washing2_one">
+	<TEXTVALUE>Wash the electrode using distilled water and adjust the pH meter with pH 9.0 buffer solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="11ph92pick">
+	<TEXT ID="11ph92pick_one">
+	<TEXTVALUE>Take a labeled beaker containing pH 9.2 buffer solution.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="12ph92reading">
+	<TEXT ID="12ph92reading_one">
+	<TEXTVALUE>Place the beaker below the electrode and dip the electrode into the solution.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="12ph92reading_two">
+	<TEXTVALUE>Now the pH meter reads the pH as 9.2, which means the meter was adjusted to the pH 9.2</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="12ph92reading_three">
+	<TEXTVALUE>Remove the beaker from the pH meter.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="13ph92place">
+	<TEXT ID="13ph92place_one">
+	<TEXTVALUE>Remove the beaker from the pH meter.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="14weingbalance">
+	<TEXT ID="14weingbalance_one">
+	<TEXTVALUE>Place a 100 mL beaker above the electronic balance and adjust the balance reading to 00.0000.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="15picsoil">
+	<TEXT ID="15picsoil_one">
+	<TEXTVALUE>Using a spatula add soil into it.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="16placebeaker">
+	<TEXT ID="16placebeaker_one">
+	<TEXTVALUE>Weigh the 20g soil and remove the beaker from the weighing balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="17fillmesuringcilinder">
+	<TEXT ID="17fillmesuringcilinder_one">
+	<TEXTVALUE>Measure 40 mL distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="18pourbeaker">
+	<TEXT ID="18pourbeaker_one">
+	<TEXTVALUE>Add this 40 mL distilled water into the soil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="19picroad">
+	<TEXT ID="19picroad_one">
+	<TEXTVALUE>Mix this solution using a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="20mixing">
+	<TEXT ID="20mixing_one">
+	<TEXTVALUE>Mix this solution using a glass rod.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="21mixingtime">
+	<TEXT ID="21mixingtime_one">
+	<TEXTVALUE>Allow this soil water suspension to stand for half an hour with intermittent stirring.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="22washing3">
+	<TEXT ID="22washing3_one">
+	<TEXTVALUE>Wash the electrode using distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="23mixingtake">
+	<TEXT ID="23mixingtake_one">
+	<TEXTVALUE>Take the beaker containing soil-water suspension.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="24reading64">
+	<TEXT ID="24reading64_one">
+	<TEXTVALUE>Place the beaker below the pH electrode and dip the electrode into the solution.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="24reading64_two">
+	<TEXTVALUE>pH value of soil sample is determined from the automatic display of the pH meter.</TEXTVALUE>
+	</TEXT>
+
+</SCENE>
+
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
