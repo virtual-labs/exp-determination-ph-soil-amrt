@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Soil’s alkalinity can be reduced by adding ---------- to the soil.",
+      "answers": {
+        "a": "Ammonium Molybdate",
+        "b": "Calcium Carbonate",
+        "c": "Ammonium Sulphate",
+        "d": "Calcium Chloride"
+      },
+      "explanations": {
+        "a": "Explanation for Ammonium Molybdate",
+        "b": "Explanation for Calcium Carbonate",
+        "c": "Explanation for Ammonium Sulphate",
+        "d": "Explanation for Calcium Chloride"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the pH range of moderately alkaline soil?",
+      "answers": {
+        "a": ">8.5",
+        "b": "<5.5",
+        "c": "6.5 – 7.5",
+        "d": "7.5 – 8.5"
+      },
+      "explanations": {
+        "a": "Explanation for >8.5",
+        "b": "Explanation for <5.5",
+        "c": "Explanation for 6.5 – 7.5",
+        "d": "Explanation for 7.5 – 8.5"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What will be the pH range of soil for the normal growth of pumpkin?",
+      "answers": {
+        "a": "5.5-7.5",
+        "b": "4.5.5",
+        "c": "7.4-9",
+        "d": "0-5"
+      },
+      "explanations": {
+        "a": "Explanation for 5.5-7.5",
+        "b": "Explanation for 4.5.5",
+        "c": "Explanation for 7.4-9",
+        "d": "Explanation for 0-5"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What will be the best pH range of most of the crops living on the soil?",
+      "answers": {
+        "a": "7.9",
+        "b": ">5",
+        "c": "1.0-4.5",
+        "d": "6.5-7.5"
+      },
+      "explanations": {
+        "a": "Explanation for 7.9",
+        "b": "Explanation for >5",
+        "c": "Explanation for 1.0-4.5",
+        "d": "Explanation for 6.5-7.5"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What type of relation between soil pH and solubility of plant nutrients?",
+      "answers": {
+        "a": "None of these",
+        "b": "No relation",
+        "c": "pH indirectly effect the solubility of plant nutrients",
+        "d": "Direct"
+      },
+      "explanations": {
+        "a": "Explanation for None of these",
+        "b": "Explanation for No relation",
+        "c": "Explanation for indirect effect",
+        "d": "Explanation for Direct"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
